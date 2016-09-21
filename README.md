@@ -1,2 +1,2 @@
 # danieltpritch.github.io
-Hello world!
+Hello world.
