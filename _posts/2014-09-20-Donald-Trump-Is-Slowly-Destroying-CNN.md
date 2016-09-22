@@ -1,5 +1,5 @@
 ----
- -layout: post
+ -layout: default
  -title: "Donald Trump Is Slowly Destroying CNN & It Might Be A Good Thing"
  -date: 2016-09-20
  ----
