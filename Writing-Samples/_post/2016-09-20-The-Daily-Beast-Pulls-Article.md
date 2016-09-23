@@ -1,6 +1,6 @@
 ----
  -layout: default
- -title: "The Daily Beast Pulls Article After Outing Gay Olympic Athlete"
+ -title: The Daily Beast Pulls Article After Outing Gay Olympic Athlete
  -date: 2016-09-20
 ----
  
