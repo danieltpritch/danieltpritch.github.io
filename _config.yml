@@ -1,5 +1,5 @@
 name: Daniel Pritchett, Writer 
 markdown: kramdown
-theme: personal
+theme: {personal}
 
 permalink: /blog/:year/:month/:day/:title
