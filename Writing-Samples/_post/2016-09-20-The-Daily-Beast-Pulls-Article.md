@@ -1,7 +1,7 @@
 ----
- -layout: default
- -title: The Daily Beast Pulls Article After Outing Gay Olympic Athlete
- -date: 2016-09-20
+layout: default
+title: The Daily Beast Pulls Article After Outing Gay Olympic Athlete
+date: 2016-09-20
 ----
  
 A writer for The Daily Beast was accused of outing gay Olympic athletes after an article was published on Thursday morning about dating apps and sex in Rio’s Olympic Village. Nico Hines, who identifies himself as a straight, married man, was on assignment when he decided to investigate who uses the dating apps Tinder, Grindr, and Bumble. Within the first 60 minutes, Hines claims to have scored three dates and proceeded to find out how easy it is to get laid.
