@@ -1,7 +1,7 @@
 ----
- -layout: post
- -title: "Donald Trump Is Slowly Destroying CNN & It Might Be A Good Thing"
- -date: 2016-09-20
+layout: post
+title: "Donald Trump Is Slowly Destroying CNN & It Might Be A Good Thing"
+date: 2016-09-20
  ----
  -
  -There was a lot of news to report on Friday morning. Non-election related topics included a gasoline spill of 250,000 gallons which will likely cause an outage in nearby Alabama communities, a recall on exploding Samsung Galaxy Note 7s, the crumbling “ceasefire” in Syria, and a suicide attack at a mosque in Pakistan killing 14. More than enough topics to broadcast as viewers get ready for the work day.
