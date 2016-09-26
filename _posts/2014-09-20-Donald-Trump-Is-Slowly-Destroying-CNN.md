@@ -1,8 +1,7 @@
 ----
 layout: post
 title: "Donald Trump Is Slowly Destroying CNN & It Might Be A Good Thing"
-date: 2016-09-20
- ----
+----
  -
  -There was a lot of news to report on Friday morning. Non-election related topics included a gasoline spill of 250,000 gallons which will likely cause an outage in nearby Alabama communities, a recall on exploding Samsung Galaxy Note 7s, the crumbling “ceasefire” in Syria, and a suicide attack at a mosque in Pakistan killing 14. More than enough topics to broadcast as viewers get ready for the work day.
  -Instead, viewers got CNN’s red carpet treatment of Trump’s ground-breaking, earth-shattering, yuuge statement about the ultra-racist “Birther Movement” he played an integral role in spreading to the masses. With the banner “BREAKING NEWS: TRUMP SET TO ADDRESS ‘BIRTHER’ ISSUE,” Trump used the spotlight to shine on veterans issues for a solid 30 minutes on live television.
