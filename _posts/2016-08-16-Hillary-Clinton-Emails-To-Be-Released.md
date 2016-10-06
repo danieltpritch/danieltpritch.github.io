@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hillary Clinton Emails To Be Released, FBI Turns Over Secret Docs To GOP Lawmakers
+date: 2016-08-16
 ---
 ![image-title-here](http://cdn.inquisitr.com/wp-content/uploads/2016/08/GettyImages-545318666-670x431.jpg){:class="img-responsive"}
 
