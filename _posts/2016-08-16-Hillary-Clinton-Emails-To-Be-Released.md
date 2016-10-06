@@ -1,8 +1,8 @@
----
-layout: default
-title: Hillary Clinton Emails To Be Released, FBI Turns Over Secret Docs To GOP Lawmakers 
+----
+layout: post
+title: "Donald Trump Is Slowly Destroying CNN & It Might Be A Good Thing"
 date: 2016-08-16
----
+----
 ![image-title-here](http://cdn.inquisitr.com/wp-content/uploads/2016/08/GettyImages-545318666-670x431.jpg){:class="img-responsive"}
 
 On Tuesday afternoon, the State Department announced they will release all of Hillary Clinton’s deleted emails the FBI recovered from her private server to the conservative watchdog group Judicial Watch. Making matters worse for the Clinton campaign, the FBI also turned over secret documents from their investigation, including notes from the interview with the Democratic nominee, to Republican lawmakers that could potentially be released to the public.
